@@ -19,10 +19,6 @@ After you delete the file, just run rails db:migrate and you are ready to go.<br
 ** You will need to use ruby 2.7.0 && rails 5.2.3 to avoid conclicts **
 
 
-## License
-
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-
 ## Authors
 
 👤 **Eduardo**
@@ -37,3 +33,8 @@ This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 - Github: [@githubhandle](https://github.com/oloomoses) 
 - Twitter: [@twitterhandle](https://twitter.com/olooine)
 - Linkedin: [linkedin](https://www.linkedin.com/in/oloo-moses-528bb1b3/)
+
+
+## License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
