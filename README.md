@@ -15,7 +15,7 @@
 ** This set of instructions is designed to be used in linux systems. **
 
 To get a local copy up and running you just need to clone this repo, and delete the file /db/development.sqlite3
-After you delete the file, just run rails db:migrate and you are ready to go.
+After you delete the file, just run rails db:migrate and you are ready to go.<br/>
 ** You will need to use ruby 2.7.0 && rails 5.2.3 to avoid conclicts **
 
 ## Authors
